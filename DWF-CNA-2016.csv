@@ -1,0 +1,3 @@
+"CVE_block_start","CVE_block_end","CVE_block_size","CVE_block_status","CVE_block_allocated_by","CVE_block_allocated_for","Primary_CVEMENTOR_id"
+"1000000","1000999","1000","active","kurt@seifried.org","kurt@seifried.org (historical data)","0"
+"1001000","1001099","100","active","kurt@seifried.org","josh@bress.net","1"
