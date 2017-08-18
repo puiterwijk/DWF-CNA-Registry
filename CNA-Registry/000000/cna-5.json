@@ -1,0 +1,41 @@
+{
+  "data_type": "CNA",
+  "CNA_data_format": "DWF",
+  "CNA_data_version": "1.0",
+  "CNA_id": "DWFCNA_5",
+  "CNA_data_meta": {
+    "org_name": "Fedora Project (Infrastructure Software)",
+    "org_url": "https://fedoraproject.org/wiki/Infrastructure",
+    "status": "active",
+    "primary_CVEMENTOR": "DWFCVEMENTOR_5",
+    "CNA_approved_by": "CNA_0"
+  },
+  "CNA_coverage": [
+    {
+      "common_vendor_name": "Fedora Project",
+      "common_product_name": "Infrastructure Software",
+      "common_url": "https://fedoraproject.org/wiki/Infrastructure",
+      "common_url_includes_sub_urls": true
+    }
+  ],
+  "CNA_qualifications": {
+    "CVE_is_vuln": {
+      "trained_by": "DWFCVEMENTOR_0",
+      "tested_by": "DWFCVEMENTOR_0",
+      "confirmed_by": "DWFCVEMENTOR_0",
+      "can_train_others": "no"
+    },
+    "CVE_counting": {
+      "trained_by": "DWFCVEMENTOR_0",
+      "tested_by": "DWFCVEMENTOR_0",
+      "confirmed_by": "DWFCVEMENTOR_0",
+      "can_train_others": "no"
+    },
+    "CVE_assign": {
+      "trained_by": "DWFCVEMENTOR_0",
+      "tested_by": "DWFCVEMENTOR_0",
+      "confirmed_by": "DWFCVEMENTOR_0",
+      "can_train_others": "no"
+    }
+  }
+}
