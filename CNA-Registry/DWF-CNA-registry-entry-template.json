@@ -1,0 +1,46 @@
+{
+  "data_type": "CNA",
+  "CNA_data_format": "DWF",
+  "CNA_data_version": "1.0",
+  "CNA_id": "DWFCNA_ID",
+  "CNA_data_meta": {
+    "org_name": "ORG NAME",
+    "org_url": "ORG URL",
+    "org_email": "ORG EMAIL",
+    "status": "active",
+    "primary_CVEMENTOR": "DWFCVEMENTOR_ID",
+    "secondary_CVEMENTOR": [
+      "DWFCVEMENTOR_ID1",
+      "DWFCVEMENTOR_ID2"
+    ],
+    "CNA_approved_by": "CNA_ID"
+  },
+  "CNA_coverage": [
+    {
+      "common_vendor_name": "VENDOR_NAME",
+      "common_product_name": "PRODUCT_NAME",
+      "common_url": "http://example.org/",
+      "common_url_includes_sub_urls": true
+    }
+  ],
+  "CNA_qualifications": {
+    "CVE_is_vuln": {
+      "trained_by": "DWFCVEMENTOR_ID",
+      "tested_by": "DWFCVEMENTOR_ID",
+      "confirmed_by": "DWFCVEMENTOR_ID",
+      "can_train_others": "no"
+    },
+    "CVE_counting": {
+      "trained_by": "DWFCVEMENTOR_ID",
+      "tested_by": "DWFCVEMENTOR_ID",
+      "confirmed_by": "DWFCVEMENTOR_ID",
+      "can_train_others": "no"
+    },
+    "CVE_assign": {
+      "trained_by": "DWFCVEMENTOR_ID",
+      "tested_by": "DWFCVEMENTOR_ID",
+      "confirmed_by": "DWFCVEMENTOR_ID",
+      "can_train_others": "no"
+    }
+  }
+}
