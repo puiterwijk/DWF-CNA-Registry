@@ -2,18 +2,20 @@
   "data_type": "CNA",
   "CNA_data_format": "DWF",
   "CNA_data_version": "1.0",
-  "CNA_id": "DWFCNA_3",
+  "CNA_id": "DWFCNA_4",
   "CNA_data_meta": {
-    "org_name": "Larry Cashdollar",
-    "org_email": "larry0@me.com",
+    "org_name": "Kubernetes",
+    "org_url": "https://kubernetes.io/",
     "status": "active",
-    "primary_CVEMENTOR": "DWFCVEMENTOR_3",
+    "primary_CVEMENTOR": "DWFCVEMENTOR_4",
     "CNA_approved_by": "CNA_0"
   },
   "CNA_coverage": [
     {
-      "common_vendor_name": "ALL OPEN SOURCE",
-      "common_product_name": "ALL OPEN SOURCE"
+      "common_vendor_name": "Kubernetes",
+      "common_product_name": "Kubernetes",
+      "common_url": "https://github.com/kubernetes/",
+      "common_url_includes_sub_urls": true
     }
   ],
   "CNA_qualifications": {
