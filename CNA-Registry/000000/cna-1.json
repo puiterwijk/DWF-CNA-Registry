@@ -6,6 +6,7 @@
   "CNA_data_meta": {
     "org_name": "Josh Bressers",
     "org_email": "josh@bress.net",
+    "org_cvelist_fork": "https://github.com/joshbressers/cvelist",
     "status": "active",
     "primary_CVEMENTOR": "DWFCVEMENTOR_1",
     "CNA_approved_by": "CNA_0"

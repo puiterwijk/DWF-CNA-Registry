@@ -7,6 +7,7 @@
     "org_name": "Distributed Weakness Filing Project",
     "org_url": "https://distributedweaknessfiling.org/",
     "org_email": "kurt@seifried.org",
+    "org_cvelist_fork": "https://github.com/distributedweaknessfiling/cvelist",
     "status": "active",
     "primary_CVEMENTOR": "DWFCVEMENTOR_0",
     "secondary_CVEMENTOR": [
